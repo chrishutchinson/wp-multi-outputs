@@ -33,7 +33,7 @@ Not all outputs require an interface with a third party service (such as Apple N
 - Apple News `outputs/JsonWpMultiOutput.php` (_Incomplete, in fact, not done at all really_)
 
 #### Plugins
-- AMP [`chrishutchinson/wpmo-AmpWpMultiOutput`](http://github.com/chrishutchinson/wpmo-AmpWpMultiOutput) (_Heavily based on the `github.com/automattic/amp-wp` plugin)
+- AMP [`chrishutchinson/wpmo-AmpWpMultiOutput`](http://github.com/chrishutchinson/wpmo-AmpWpMultiOutput) (_Heavily based on the `github.com/automattic/amp-wp` plugin_)
 
 ### Things to do
 
